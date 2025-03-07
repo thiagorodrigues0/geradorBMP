@@ -10,3 +10,4 @@ Uma nova pasta será gerada, com as todas imagens já formatadas. Basta executar
 Este código complementar faz parte do projeto Integração de Cartão SD e Display LCD utilizando um SoC FPGA.
 Se você não conseguir utilizar, pode-se utilizar algum software ou site online para redimensionar a imagems para 320x240 e depois para transforma-la em .BMP
 
+Para mais detalhes, acesse o documento do projeto em: https://drive.google.com/drive/folders/1R1kQIASA9__QIkGANy9Un1eSgFk6H-Ih?usp=sharing
