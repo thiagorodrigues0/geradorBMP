@@ -2,7 +2,9 @@ Este código faz a conversão automatica de imagens .png .jpg .jpeg (não aceita
 
 Para utilizar:
 Coloque todas as imagens que deseja ser formatadas em uma pasta
+
 Caso você tenha alguma IDE em python, basta executar o código na mesma pasta das imagens-alvo.
+
 Se não, você pode executar o arquivo .exe na mesma pasta das imagens-alvo.
 
 Uma nova pasta será gerada, com as todas imagens já formatadas. Basta executar o código/programa uma vez.
